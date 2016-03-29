@@ -1,1 +1,1 @@
-cp ~/terminalcolors/.dircolors ~/
+cp .dircolors ~/
