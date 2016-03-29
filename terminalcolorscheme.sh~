@@ -1,5 +1,5 @@
-[[ -z "$PROFILE_NAME" ]] && PROFILE_NAME="Base 16 Railscasts Dark"
-[[ -z "$PROFILE_SLUG" ]] && PROFILE_SLUG="base-16-railscasts-dark"
+[[ -z "$PROFILE_NAME" ]] && PROFILE_NAME="Harsh Patel"
+[[ -z "$PROFILE_SLUG" ]] && PROFILE_SLUG="Harsh Patel"
 [[ -z "$DCONF" ]] && DCONF=dconf
 [[ -z "$UUIDGEN" ]] && UUIDGEN=uuidgen
 
